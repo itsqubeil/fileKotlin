@@ -1,0 +1,6 @@
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="primaryColor">#FFffff</color> <!-- Ganti dengan warna yang Anda inginkan -->
+    <color name="primaryColorDark">#000000</color> <!-- Ganti dengan warna yang Anda inginkan -->
+    <color name="accentColor">#000000</color> <!-- Ganti dengan warna yang Anda inginkan -->
+</resources>
